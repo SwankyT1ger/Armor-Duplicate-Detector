@@ -7,6 +7,8 @@ Python program for highlighting duplicate armor pieces that are safe to delete i
 3. Click Armor.csv to download "destiny-armor.csv"
 4. Move "destiny-armor.csv" to the same location as the exe
 5. Run the exe and it will save a DIM filter to your clipboard that you can then paste in DIM
+#### *Disclaimer: does not handle non-tiered armor properly
+<br>
 
 ## If building from source install the following dependencies:
  - [Pandas](https://pandas.pydata.org/)
